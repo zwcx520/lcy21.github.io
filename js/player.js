@@ -81,6 +81,12 @@ class Musics {
                 singer: ' 耳朵便利店',
                 songUrl: 'yy/8.mp3',
                 imageUrl: 'images/20230928093800743748.jpg'
+            },{
+                
+                title: '入戏太深2024 (伴奏)',
+                singer: ' 马旭东',
+                songUrl: 'yy/9.mp3',
+                imageUrl: 'images/'
             }
         ]
     }
