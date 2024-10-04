@@ -211,7 +211,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
  <br/>
 <main style="background-image:url('images/89ad7a8b06dea855fb95e54d61c0b45b.pn');background-repeat: no-repeat;background-size: 100% 100%; ">
 
-<h1 style="text-align: center; " class="title"><a style="color:#ffaa7f50;" href="https://lcy21.netlify.app/">归档</a> - 时光卷轴</h1>
+<h1 style="text-align: center; " class="title"><a id="typingEffect"  style="color:#ffaa7f50;" href="https://lcy21.netlify.app/"></a> </h1>
  <br />
 <!--  模板
 <h3>
@@ -615,6 +615,21 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 		<script src="js/jquery.min.js">
 		</script>
 		<script src="js/player.js">
+		</script>
+		<script>
+		  const text = "归档-时光卷轴";
+    const typingEffect = document.getElementById('typingEffect');
+    let index = 0;
+
+    function type() {
+      if (index < text.length) {
+        typingEffect.textContent += text[index];
+        index++;
+        setTimeout(type, 250);
+      }
+    }
+
+    type();
 		</script>
 </body>
 </html>
