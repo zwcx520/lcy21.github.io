@@ -86,7 +86,7 @@ class Musics {
                 title: '入戏太深2024 (伴奏)',
                 singer: ' 马旭东',
                 songUrl: 'yy/9.mp3',
-                imageUrl: 'images/'
+                imageUrl: 'images/20240813162614678214.jpg'
             }
         ]
     }
