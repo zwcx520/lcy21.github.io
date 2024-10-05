@@ -2,7 +2,7 @@
 // 弹窗内容
 var popupNotice = "⭐2024年10月5日⭐";
 var popupMainContent = "本APP的UI体验效果欠佳，现已发布新版1.1版，可以选择更新使体验，已更新可取消，一星期后不再弹窗！";
-var popupJoinLink = "https://zwcxbk.rth1.app/gd.apk";
+var popupJoinLink = "xzy.html";
 
 // 是否弹出弹窗的变量
 var shouldPopup = 1;
