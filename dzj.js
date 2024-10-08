@@ -1,4 +1,4 @@
-  const text = "人生何处不悲凉，只照明月问秋风！";
+  const text = "光阴似箭，时光如梭！！！";
     const typingEffect = document.getElementById('typingEffect');
     let index = 0;
 
