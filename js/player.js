@@ -93,6 +93,12 @@ class Musics {
                 singer: ' 刀酱',
                 songUrl: 'yy/10.mp3',
                 imageUrl: 'images/ewWL9Q9rZHNSbvYJx_ukWg==_109951169664860323.png'
+            },{
+                
+                title: '别让我放不下',
+                singer: ' 威仔、阿夏 ',
+                songUrl: 'yy/11.mp3',
+                imageUrl: 'images/20190903175003900397.jpg'
             }
         ]
     }
