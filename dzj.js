@@ -1,4 +1,4 @@
-  const text = "追吻辰星，追逐自己的光芒，亲吻属于自己的那一片辰星";
+  const text = "做自己的月亮！";
     const typingEffect = document.getElementById('typingEffect');
     let index = 0;
 
