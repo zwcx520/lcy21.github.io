@@ -1,2 +1,2 @@
 var outputDiv = document.getElementById('output');
-    outputDiv.innerHTML = '背景音乐: 威仔、阿夏 - 别让我放不下';
+    outputDiv.innerHTML = '背景音乐: 邓寓君(等什么君) - 春庭雪 (DJ Wave版)';
