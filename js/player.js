@@ -99,6 +99,12 @@ class Musics {
                 singer: ' 威仔、阿夏 ',
                 songUrl: 'yy/11.mp3',
                 imageUrl: 'images/20190903175003900397.jpg'
+            },{
+                
+                title: 'Blackheart (黑暗之心)',
+                singer: ' Blackheart (黑暗之心)',
+                songUrl: 'yy/12.mp3',
+                imageUrl: 'images/20181126100357174318.jpg'
             }
         ]
     }
