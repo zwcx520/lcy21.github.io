@@ -1,4 +1,4 @@
-  const text = "我期望人生厚重，每日却以浮沫填充！";
+  const text = "我什么都没忘，只是有些事只适合收藏。";
     const typingEffect = document.getElementById('typingEffect');
     let index = 0;
 
