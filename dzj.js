@@ -1,4 +1,4 @@
-  const text = "我什么都没忘，只是有些事只适合收藏。";
+  const text = "有些事只能藏于心中！";
     const typingEffect = document.getElementById('typingEffect');
     let index = 0;
 
