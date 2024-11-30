@@ -1,4 +1,4 @@
-  const text = "有些事只能藏于心中！";
+  const text = "你好！岁月！";
     const typingEffect = document.getElementById('typingEffect');
     let index = 0;
 
