@@ -7,7 +7,23 @@
 }
 
 body {
-	
+  background-image: url(https://lcy20.netlify.app/bj.jpg);
+   animation-name: example; 
+    animation-duration: 1000s;
+   	background-attachment: fixed;						
+    background-size: 100% 100%;			
+   	background-repeat: no-repeat;		
+    }
+    @keyframes example { 
+      0.2% {background-image: url("https://lcy20.netlify.app/bj.jpg");}
+       1% {background-image: url("https://lcy20.netlify.app/bj2.jpg");}
+        2% {background-image: url("https://lcy20.netlify.app/bj3.jpg");}
+         3% {background-image: url("https://lcy20.netlify.app/bj4.jpg");}
+          4% {background-image: url("https://lcy20.netlify.app/bj5.jpg");}
+           5% {background-image: url("https://lcy20.netlify.app/bj6.jpg");}
+            6% {background-image: url("https://lcy20.netlify.app/bj7.jpg");}
+             7% {background-image: url("https://lcy20.netlify.app/bj8.jpg");}
+ }
     font-family: "Microsoft YaHei";
     color: white;
     font-weight: 300;
@@ -45,14 +61,14 @@ body :-ms-input-placeholder {
 }
 
 .wrapper {
-    background-image: url(https://lcy20.netlify.app/bj.jpg);
-    animation-name: example; 
-    animation-duration: 500s;
+ background-image: url(https://lcy20.netlify.app/bj.jpg);
+       animation-name: example; 
+    animation-duration: 1000s;
    	background-attachment: fixed;						
     background-size: 100% 100%;			
-   	background-repeat: no-repeat;		
+   	background-repeat: no-repeat;}	
     @keyframes example { 
-      0% {background-image: url("https://lcy20.netlify.app/bj1.jpg");}
+      0.2% {background-image: url("https://lcy20.netlify.app/bj.jpg");}
        1% {background-image: url("https://lcy20.netlify.app/bj2.jpg");}
         2% {background-image: url("https://lcy20.netlify.app/bj3.jpg");}
          3% {background-image: url("https://lcy20.netlify.app/bj4.jpg");}
