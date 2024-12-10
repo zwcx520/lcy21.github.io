@@ -1,2 +1,2 @@
 var outputDiv = document.getElementById('output');
-    outputDiv.innerHTML = '    背景音乐 : 风吹过八千里(DJ版)-苏星婕';
+    outputDiv.innerHTML = '    背景音乐 : Jason Huang - 悬溺（交响乐版 short ver）';
